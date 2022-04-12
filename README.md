@@ -1,7 +1,6 @@
 # SweetServerModPack
 
 **How to install?**
-Fist install Forge 39.1.0 for Minecraft version 1.18.1 [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html).
 
 1. Download Forge 39.1.0 [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
 2. Run Minecraft on version 1.18.1 and close it
